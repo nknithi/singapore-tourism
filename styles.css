@@ -1,0 +1,14 @@
+
+.imagetable {
+    border: none;
+    
+}
+
+.climatetable {
+border:1px solid black;
+border-collapse: collapse;
+}
+
+a {
+    margin:5px;
+}
